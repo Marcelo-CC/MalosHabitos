@@ -4,22 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d45cc2a1-a30f-4cc8-ae3e-1b0be5d3f9c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/MalosHabitos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejemploo1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejemploo2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejemploo3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="d45cc2a1-a30f-4cc8-ae3e-1b0be5d3f9c9" name="Changes" comment="Se elimino main">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejemploo2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemploo2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejemploo3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemploo3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,6 +36,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Ejemploo1.executor": "Run",
+    "Python.Ejemploo2.executor": "Run",
+    "Python.Ejemploo3.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -87,17 +89,52 @@
       <option name="presentableId" value="Default" />
       <updated>1725922310753</updated>
     </task>
+    <task id="LOCAL-00001" summary="Refactorización Ejem01">
+      <option name="closed" value="true" />
+      <created>1725923878379</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725923878379</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Refactorización Ejem01">
+      <option name="closed" value="true" />
+      <created>1725923954316</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725923954316</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Refactorización Ejem01">
+      <option name="closed" value="true" />
+      <created>1725923993510</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725923993510</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Se elimino main">
+      <option name="closed" value="true" />
+      <created>1725924042980</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725924042980</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Se elimino main">
+      <option name="closed" value="true" />
+      <created>1725924049012</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725924049012</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Refactorización Ejem01" />
+    <MESSAGE value="Se elimino main" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se elimino main" />
   </component>
 </project>
